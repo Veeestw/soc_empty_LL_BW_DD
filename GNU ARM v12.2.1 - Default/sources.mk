@@ -34,6 +34,7 @@ gecko_sdk_4.5.0/platform/common/src \
 gecko_sdk_4.5.0/platform/common/toolchain/src \
 gecko_sdk_4.5.0/platform/driver/debug/src \
 gecko_sdk_4.5.0/platform/driver/i2cspm/src \
+gecko_sdk_4.5.0/platform/driver/leddrv/src \
 gecko_sdk_4.5.0/platform/emdrv/dmadrv/src \
 gecko_sdk_4.5.0/platform/emlib/src \
 gecko_sdk_4.5.0/platform/radio/rail_lib/plugin/pa-conversions \
